@@ -36,7 +36,7 @@ export function LoginPage() {
 
     setIsLoading(true)
 
-    // Simulate API call
+    
     sendData("/api/login", formData)
   }
 
