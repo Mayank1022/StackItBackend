@@ -14,7 +14,7 @@ public class AnswerController {
     private final AnswerService answerService;
 
 
-    Public geek();
+    
 
     @PostMapping("/questions/{id}/answers")
     @PreAuthorize("hasRole('USER')")
