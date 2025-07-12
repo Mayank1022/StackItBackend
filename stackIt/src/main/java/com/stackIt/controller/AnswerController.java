@@ -13,6 +13,9 @@ public class AnswerController {
 
     private final AnswerService answerService;
 
+
+    Public geek();
+
     @PostMapping("/questions/{id}/answers")
     @PreAuthorize("hasRole('USER')")
     public ResponseEntity<Answer> addAnswer(@PathVariable Long id, @RequestBody Answer answer, Authentication auth) {
