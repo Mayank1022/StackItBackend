@@ -43,13 +43,18 @@ Question owners can mark one a nswer as accepted
 
 5. Tagging
 Questions must include relevant tags
+
 6. Notification System
-A notification icon ( bell) appears in the top navigation bar
-Users a renotified when:
+A notification icon ( bell) appears in the top navigation bar Users a renotified when:
+
 ○ Someone answers their question
+
 ○ Someone comments on their answer
+
 ○ Someone mentions them using @user name
+
 The icon shows the number of unread notifications
 Clicking the icon opens a dropdown with recent notifications.
+
 
 Email:manassinghmakhija@gmail.com
