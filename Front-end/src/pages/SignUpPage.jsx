@@ -97,7 +97,7 @@ export function SignUpPage() {
 
     setIsLoading(true)
 
-    // Simulate API call
+    
     sendData("/api/signup", formData)
   }
 
